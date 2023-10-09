@@ -1,0 +1,14 @@
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\bin\Debug\net6.0\ejercicio7.exe
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\bin\Debug\net6.0\ejercicio7.deps.json
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\bin\Debug\net6.0\ejercicio7.runtimeconfig.json
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\bin\Debug\net6.0\ejercicio7.dll
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\bin\Debug\net6.0\ejercicio7.pdb
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\obj\Debug\net6.0\ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\obj\Debug\net6.0\ejercicio7.AssemblyInfoInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\obj\Debug\net6.0\ejercicio7.AssemblyInfo.cs
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\obj\Debug\net6.0\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\obj\Debug\net6.0\ejercicio7.dll
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\obj\Debug\net6.0\refint\ejercicio7.dll
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\obj\Debug\net6.0\ejercicio7.pdb
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\obj\Debug\net6.0\ejercicio7.genruntimeconfig.cache
+C:\Users\Marvi\OneDrive\Escritorio\ejercicio7\obj\Debug\net6.0\ref\ejercicio7.dll
