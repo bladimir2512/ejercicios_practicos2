@@ -1,0 +1,14 @@
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\bin\Debug\net6.0\sumadenumeros.exe
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\bin\Debug\net6.0\sumadenumeros.deps.json
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\bin\Debug\net6.0\sumadenumeros.runtimeconfig.json
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\bin\Debug\net6.0\sumadenumeros.dll
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\bin\Debug\net6.0\sumadenumeros.pdb
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\obj\Debug\net6.0\sumadenumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\obj\Debug\net6.0\sumadenumeros.AssemblyInfoInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\obj\Debug\net6.0\sumadenumeros.AssemblyInfo.cs
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\obj\Debug\net6.0\sumadenumeros.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\obj\Debug\net6.0\sumadenumeros.dll
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\obj\Debug\net6.0\refint\sumadenumeros.dll
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\obj\Debug\net6.0\sumadenumeros.pdb
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\obj\Debug\net6.0\sumadenumeros.genruntimeconfig.cache
+C:\Users\Marvi\OneDrive\Escritorio\sumadenumeros\obj\Debug\net6.0\ref\sumadenumeros.dll

@@ -1,0 +1,14 @@
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\bin\Debug\net6.0\numeroprimo.exe
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\bin\Debug\net6.0\numeroprimo.deps.json
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\bin\Debug\net6.0\numeroprimo.runtimeconfig.json
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\bin\Debug\net6.0\numeroprimo.dll
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\bin\Debug\net6.0\numeroprimo.pdb
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\obj\Debug\net6.0\numeroprimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\obj\Debug\net6.0\numeroprimo.AssemblyInfoInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\obj\Debug\net6.0\numeroprimo.AssemblyInfo.cs
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\obj\Debug\net6.0\numeroprimo.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\obj\Debug\net6.0\numeroprimo.dll
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\obj\Debug\net6.0\refint\numeroprimo.dll
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\obj\Debug\net6.0\numeroprimo.pdb
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\obj\Debug\net6.0\numeroprimo.genruntimeconfig.cache
+C:\Users\Marvi\OneDrive\Escritorio\numeroprimo\obj\Debug\net6.0\ref\numeroprimo.dll

@@ -1,0 +1,14 @@
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\bin\Debug\net6.0\paroimpar.exe
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\bin\Debug\net6.0\paroimpar.deps.json
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\bin\Debug\net6.0\paroimpar.runtimeconfig.json
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\bin\Debug\net6.0\paroimpar.dll
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\bin\Debug\net6.0\paroimpar.pdb
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\obj\Debug\net6.0\paroimpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\obj\Debug\net6.0\paroimpar.AssemblyInfoInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\obj\Debug\net6.0\paroimpar.AssemblyInfo.cs
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\obj\Debug\net6.0\paroimpar.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\obj\Debug\net6.0\paroimpar.dll
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\obj\Debug\net6.0\refint\paroimpar.dll
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\obj\Debug\net6.0\paroimpar.pdb
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\obj\Debug\net6.0\paroimpar.genruntimeconfig.cache
+C:\Users\Marvi\OneDrive\Escritorio\paroimpar\obj\Debug\net6.0\ref\paroimpar.dll
