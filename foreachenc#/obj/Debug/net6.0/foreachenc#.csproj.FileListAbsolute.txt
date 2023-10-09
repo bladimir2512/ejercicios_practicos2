@@ -1,0 +1,28 @@
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\bin\Debug\net6.0\foreachenc#.exe
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\bin\Debug\net6.0\foreachenc#.deps.json
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\bin\Debug\net6.0\foreachenc#.runtimeconfig.json
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\bin\Debug\net6.0\foreachenc#.dll
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\bin\Debug\net6.0\foreachenc#.pdb
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\obj\Debug\net6.0\foreachenc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\obj\Debug\net6.0\foreachenc#.AssemblyInfoInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\obj\Debug\net6.0\foreachenc#.AssemblyInfo.cs
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\obj\Debug\net6.0\foreachenc#.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\obj\Debug\net6.0\foreachenc#.dll
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\obj\Debug\net6.0\refint\foreachenc#.dll
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\obj\Debug\net6.0\foreachenc#.pdb
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\obj\Debug\net6.0\foreachenc#.genruntimeconfig.cache
+C:\Users\Marvi\OneDrive\Escritorio\foreachenc#\obj\Debug\net6.0\ref\foreachenc#.dll
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\bin\Debug\net6.0\foreachenc#.exe
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\bin\Debug\net6.0\foreachenc#.deps.json
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\bin\Debug\net6.0\foreachenc#.runtimeconfig.json
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\bin\Debug\net6.0\foreachenc#.dll
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\bin\Debug\net6.0\foreachenc#.pdb
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\obj\Debug\net6.0\foreachenc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\obj\Debug\net6.0\foreachenc#.AssemblyInfoInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\obj\Debug\net6.0\foreachenc#.AssemblyInfo.cs
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\obj\Debug\net6.0\foreachenc#.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\obj\Debug\net6.0\foreachenc#.dll
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\obj\Debug\net6.0\refint\foreachenc#.dll
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\obj\Debug\net6.0\foreachenc#.pdb
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\obj\Debug\net6.0\foreachenc#.genruntimeconfig.cache
+C:\Users\Marvi\OneDrive\Escritorio\DAE ejercisios #2\foreachenc#\obj\Debug\net6.0\ref\foreachenc#.dll

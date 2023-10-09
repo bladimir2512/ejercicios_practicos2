@@ -1,0 +1,14 @@
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\bin\Debug\net6.0\numeromayoromenor.exe
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\bin\Debug\net6.0\numeromayoromenor.deps.json
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\bin\Debug\net6.0\numeromayoromenor.runtimeconfig.json
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\bin\Debug\net6.0\numeromayoromenor.dll
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\bin\Debug\net6.0\numeromayoromenor.pdb
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\obj\Debug\net6.0\numeromayoromenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\obj\Debug\net6.0\numeromayoromenor.AssemblyInfoInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\obj\Debug\net6.0\numeromayoromenor.AssemblyInfo.cs
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\obj\Debug\net6.0\numeromayoromenor.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\obj\Debug\net6.0\numeromayoromenor.dll
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\obj\Debug\net6.0\refint\numeromayoromenor.dll
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\obj\Debug\net6.0\numeromayoromenor.pdb
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\obj\Debug\net6.0\numeromayoromenor.genruntimeconfig.cache
+C:\Users\Marvi\OneDrive\Escritorio\numeromayoromenor\obj\Debug\net6.0\ref\numeromayoromenor.dll
