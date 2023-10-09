@@ -1,0 +1,14 @@
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\bin\Debug\net6.0\compradearticulo.exe
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\bin\Debug\net6.0\compradearticulo.deps.json
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\bin\Debug\net6.0\compradearticulo.runtimeconfig.json
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\bin\Debug\net6.0\compradearticulo.dll
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\bin\Debug\net6.0\compradearticulo.pdb
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\obj\Debug\net6.0\compradearticulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\obj\Debug\net6.0\compradearticulo.AssemblyInfoInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\obj\Debug\net6.0\compradearticulo.AssemblyInfo.cs
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\obj\Debug\net6.0\compradearticulo.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\obj\Debug\net6.0\compradearticulo.dll
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\obj\Debug\net6.0\refint\compradearticulo.dll
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\obj\Debug\net6.0\compradearticulo.pdb
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\obj\Debug\net6.0\compradearticulo.genruntimeconfig.cache
+C:\Users\Marvi\OneDrive\Escritorio\compradearticulo\obj\Debug\net6.0\ref\compradearticulo.dll
